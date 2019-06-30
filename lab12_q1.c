@@ -2,7 +2,7 @@
 //
 //		 Handling Interrupts 
 //		 Lab 12 Q.1 
-//		 Name :		"REHAM ABASS "	 Id = [ 201277811 ]
+//		 Name :		"REHAM ABASS "	
 //		 Date : 	 30/ 06/2019
 //
 #include <stdio.h> 				//Library for INput\Output
