@@ -1,0 +1,12 @@
+
+Work Environmet :
+1. download the TC.zip , transfer it to c:\
+
+2. Using DosBox :
+  2.1. mount C C:\
+  2.2. C:
+  2.3. cd TC\BIN
+
+3. any  code must be saved in : c:\TC\BIN , in  C type..
+
+4. it could be compiled in visual stdio.
