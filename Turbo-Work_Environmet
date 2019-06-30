@@ -10,3 +10,7 @@ Work Environmet :
 3. any  code must be saved in : c:\TC\BIN , in  C type..
 
 4. it could be compiled in visual stdio.
+
+5. Compiliations :  tcc -ml q1.c
+
+6. to excute :    q1.exe 
